@@ -22,3 +22,4 @@ console.log(formatMessage("Nunc sed turpis a felis in nunc fringilla", 15));
 
 
 console.log(formatMessage("Nunc sed turpis a felis in nunc fringilla", 41)); 
+
